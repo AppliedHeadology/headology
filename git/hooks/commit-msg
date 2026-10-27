@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+# .git/hooks/commit-msg
+
+FORTUNE_DIR="./git/fortunes"
+FORTUNE_FILE=""
+
+MSG_FILE="$1"
+# Read the first line of whatever the user typed
+FIRST_LINE=$(head -n1 "$MSG_FILE")
+
+# Check if the user typed just a prefix (with or without a colon)
+case "$FIRST_LINE" in
+    "chore"|"chore:")         FORTUNE_FILE="$FORTUNE_DIR/chore" ;;
+    "docs"|"docs:")           FORTUNE_FILE="$FORTUNE_DIR/docs" ;;
+    "feat"|"feat:")           FORTUNE_FILE="$FORTUNE_DIR/feat" ;;
+    "fix"|"fix:")             FORTUNE_FILE="$FORTUNE_DIR/fix" ;;
+    "init"|"init:")           FORTUNE_FILE="$FORTUNE_DIR/init" ;;
+    "refactor"|"refactor:")   FORTUNE_FILE="$FORTUNE_DIR/refact" ;;
+esac
+
+if [ -r "$FORTUNE_FILE" -a -r "$FORTUNE_FILE.dat" ]; then
+    fortune "$FORTUNE_FILE" > "$MSG_FILE"
+
+    echo -e "\n🛑 Deadlock Vimes dictates:"
+    cat "$MSG_FILE"
+    echo ""
+fi

@@ -1,0 +1,100 @@
+refactor: Removed the framework. The code is now smaller and considerably less magical.
+%
+refactor: Deleted three hundred lines of ceremony that achieved nothing, reliably.
+%
+refactor: Replaced the dependency injection container with a variable and a shrug.
+%
+refactor: Consolidated nine services into one script that fits on a screen.
+%
+refactor: Swept the terrible code under the carpet. The carpet is doing fine.
+%
+refactor: Replaced the event-driven architecture with a loop and a comment.
+%
+refactor: Removed the abstraction layer. The problem is now visible, which helps.
+%
+refactor: The configuration framework had forty options. It has one now, and it works.
+%
+refactor: Replaced the build pipeline with a Makefile written in anger.
+%
+refactor: Removed the plugin system. There were no plugins, only ghosts.
+%
+refactor: Removed the singleton. It was not a pattern; it was a hostage.
+%
+refactor: Replaced the ORM with SQL and a sense of occasion.
+%
+refactor: The framework upgrade was a scam. I have downgraded to 2014.
+%
+refactor: Removed the service mesh. The services can now talk without lawyers.
+%
+refactor: Replaced the observability stack with one number and an opinion about it.
+%
+refactor: The codebase weighed four gigabytes. It is now a directory and a script.
+%
+refactor: Removed the middleware. The request now travels in a straight line.
+%
+refactor: Replaced the workflow engine with a for loop and a deadline.
+%
+refactor: The documentation generator generated nothing. I removed it and felt lighter.
+%
+refactor: Stripped the framework down to its bones. The bones were also a scam.
+%
+refactor: Replaced the message queue with a file and a sense of urgency.
+%
+refactor: Removed the caching layer. The queries are now slow but honest.
+%
+refactor: The DI container knew everything about nothing. It has been let go.
+%
+refactor: Replaced the templating engine with string concatenation and nerve.
+%
+refactor: Removed the feature flags. There were four hundred, and none worked.
+%
+refactor: The CI pipeline had eleven stages of theatre. It has one now.
+%
+refactor: Replaced the API gateway with a proxy. The proxy has no opinions.
+%
+refactor: Swept the legacy module under the carpet. It is still there, quietly.
+%
+refactor: Removed the async/await ceremony. The code now waits like an adult.
+%
+refactor: The framework's best feature was its exit code. I used it.
+%
+refactor: Replaced the state machine with a variable named phase and a hope.
+%
+refactor: Removed the scheduler. The cron entry was always doing the work anyway.
+%
+refactor: Replaced the logging framework with echo and a sense of finality.
+%
+refactor: The monolith was a pile of regret. I have tidied the pile.
+%
+refactor: Replaced the validation library with three checks and a shrug.
+%
+refactor: Removed the code that smelled. The remaining code smells less.
+%
+refactor: Replaced the deployment orchestration with a script and a prayer.
+%
+refactor: Stripped out the framework's seventeen ways to say hello. It says one now.
+%
+refactor: Removed the abstraction factory. The factory was abstract, and so were the results.
+%
+refactor: Replaced the configuration management with one file and the will to maintain it.
+%
+refactor: The library had dependencies on its dependencies' dependencies. I removed it all.
+%
+refactor: Replaced the reactive stream with a pipeline and a sense of order.
+%
+refactor: Removed the framework's built-in magic. What remains is merely broken in a legible way.
+%
+refactor: The test suite had two thousand tests for one function. It has three now.
+%
+refactor: Replaced the internal RPC with a function call. The distance was imaginary.
+%
+refactor: Swept the dead code under the carpet. It had been dead for years.
+%
+refactor: Removed the ORM's persistence. The data now lives where it can be found.
+%
+refactor: Replaced the container orchestration with a process and a supervisor's glare.
+%
+refactor: The architecture was a castle of glass. I have replaced it with a shed.
+%
+refactor: Removed the enterprise magic. What remains is small, blunt, and mine.
+%

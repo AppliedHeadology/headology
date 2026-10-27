@@ -1,0 +1,100 @@
+docs: Updated the manual. No one will read it, but it is there now.
+%
+docs: Wrote the README in the hope that someone, someday, survives this codebase.
+%
+docs: Told future maintainers, in writing, to run away and not look back.
+%
+docs: The documentation is now a survival guide. The apocalypse is presumably the refactoring.
+%
+docs: Added a warning label to the module. It was dangerous; now it is labeled.
+%
+docs: Documented the build process, which no one follows, in great and futile detail.
+%
+docs: The manual now says RTFM. This is not a joke; the manual says RTFM.
+%
+docs: Wrote the onboarding guide. It assumes the reader is brave, which they are not.
+%
+docs: Documented the failure modes. The manual is now honest, which worries me.
+%
+docs: Left a note for the next maintainer: it gets worse, then better, then worse.
+%
+docs: The changelog now warns readers that the changes were not for them.
+%
+docs: Wrote the API reference. The API will now pretend to be documented.
+%
+docs: Added the troubleshooting guide, which is a list of things we cannot fix.
+%
+docs: The manual now includes an evacuation plan, for the codebase and the reader.
+%
+docs: Updated the comments in the scary part. The scary part is still scary.
+%
+docs: Documented the magic number. It is still magic; now it has a biography.
+%
+docs: Wrote the security notes. They say do not do that, in some detail.
+%
+docs: The README now begins with a health warning, as is done with cigarettes.
+%
+docs: Added a glossary of terms no one uses, in case someone does, briefly.
+%
+docs: Documented the workaround so future readers know it was a workaround, not a design.
+%
+docs: The manual now says the system is fragile. This is new information, apparently.
+%
+docs: Wrote the disaster recovery plan. It is in the appendix, where disasters go.
+%
+docs: Added a note that the documentation is correct and the code is not, usually.
+%
+docs: The wiki page now says read the manual first. It has always said that.
+%
+docs: Documented the environment variables, which were previously known only to ghosts.
+%
+docs: Wrote the exit procedure, in case anyone wants to leave this project alive.
+%
+docs: Updated the FAQ. The questions are still unanswerable, but they are now listed.
+%
+docs: The manual now explains the error messages, which are mostly the system's private thoughts.
+%
+docs: Added a warning to the deploy docs: read the previous warning before proceeding.
+%
+docs: Documented the legacy module thoroughly. It now has a plaque, of a sort.
+%
+docs: Wrote the threat model. The threats are mostly internal, and a few are us.
+%
+docs: Added a map of the minefield. The safe path is marked, faintly, in pencil.
+%
+docs: Updated the release notes: as always, everything changed. This is accurate.
+%
+docs: Wrote the incident report. It says we were lucky, which is a technical term.
+%
+docs: The manual now says trust the logs. A useful lie, in the end.
+%
+docs: Added the runbook for the outage that has not happened yet. It is grim.
+%
+docs: Documented the backup procedure in case the apocalypse arrives with paperwork requirements.
+%
+docs: Added a do-not-edit notice to the wiki. The wiki has opinions about this.
+%
+docs: Wrote the architecture overview. It describes how it should work, not how it does.
+%
+docs: Added a section on hope. It is brief, and it appears last, by design.
+%
+docs: Documented the restart procedure, which is the whole manual, honestly.
+%
+docs: The new page says read everything else first. It means this, unusually.
+%
+docs: Wrote the post-mortem so the next team can be tired on our behalf.
+%
+docs: Added the disclaimer that nothing here is guaranteed, including the disclaimers.
+%
+docs: The manual now tells you where the bodies are buried, in the abstract sense.
+%
+docs: Documented the upgrade path, which is a cliff with instructions attached.
+%
+docs: Added the survival guide for the next release. It assumes this one survives, briefly.
+%
+docs: The glossary now defines deprecated as please stop using it, we are begging.
+%
+docs: Updated the manual with the truth, which made the manual considerably shorter.
+%
+docs: Added a final note to the manual: it worked once, years ago.
+%
