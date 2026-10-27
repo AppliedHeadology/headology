@@ -3,6 +3,8 @@
 
 FORTUNE_DIR="./git/fortunes"
 FORTUNE_FILE=""
+FORTUNE_TEXT="Applied standard operational workaround."
+
 
 MSG_FILE="$1"
 # Read the first line of whatever the user typed
@@ -18,10 +20,14 @@ case "$FIRST_LINE" in
     "refactor"|"refactor:")   FORTUNE_FILE="$FORTUNE_DIR/refact" ;;
 esac
 
-if [ -r "$FORTUNE_FILE" -a -r "$FORTUNE_FILE.dat" ]; then
-    fortune "$FORTUNE_FILE" > "$MSG_FILE"
+FORTUNE_TEXT="Applied standard operational workaround."
 
-    echo -e "\n🛑 Deadlock Vimes dictates:"
-    cat "$MSG_FILE"
-    echo ""
+if [ -r "$FORTUNE_FILE" -a -r "$FORTUNE_FILE.dat" ]; then
+    FORTUNE_TEXT="$(fortune ${FORTUNE_FILE} 2>/dev/null)"
 fi
+
+echo "${FORTUNE_TEXT}" > "$MSG_FILE" 
+
+echo -e "\n🛑 Deadlock Vimes dictates:"
+cat "$MSG_FILE"
+echo ""
